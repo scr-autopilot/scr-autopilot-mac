@@ -26,4 +26,6 @@ This is a step-by-step guide on how to set up SCR-Autopilot on macOS. If you hav
 4. Drag & drop the ``main.py`` file into the Terminal
 5. Press RETURN on your keyboard
 6. Follow the instructions in the Terminal
+7. Alt+Tab into Roblox
+8. The autopilot should now control the train
 
