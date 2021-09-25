@@ -1,4 +1,4 @@
-**SCR-Autopilot for macOS is still in development.**
+**Sadly, it looks like SCR-Autopilot for macOS won't come out, and it will only work on Windows. Sorry.**
 # SCR-Autopilot for macOS
 [![Discord](https://img.shields.io/discord/806191973362040893.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC1)](https://discord.gg/jtQ2R8cxWq) [![Releases](https://img.shields.io/github/v/release/scr-autopilot/scr-autopilot-mac)](https://github.com/scr-autopilot/scr-autopilot-mac/releases) [![scr-autopilot](https://img.shields.io/static/v1?label=SCR-Autopilot&message=for%20Windows&color=00188f&logo=windows)](https://github.com/scr-autopilot/scr-autopilot)
 
